@@ -1,5 +1,5 @@
 {
-  "name": "alt-usuario-logado-passaporte",
+  "name": "alt-passaporte-usuario-logado",
   "main": "dist/alt-passaporte-usuario-logado.min.js",
   "version": "0.0.1",
   "homepage": "https://github.com/dsn-nimbus/alt-passaporte-usuario-logado.git",
